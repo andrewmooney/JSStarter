@@ -21,7 +21,7 @@
     "build": "babel-node buildScripts/build.js",
     "postbuild": "babel-node buildScripts/distServer.js"
   },
-  "author": "Cory House",
+  "author": "Andrew Mooney",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
